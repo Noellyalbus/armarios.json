@@ -1,0 +1,90 @@
+{
+    "blocos": [
+      {
+        "nome": "Bloco 1",
+        "armarios": [
+          {
+            "numero": "armario 1",
+            "estado": "livre"
+          },
+          {
+            "numero": "armario 2",
+            "estado": "ocupado"
+          },
+          {
+            "numero": "armario 3",
+            "estado": "manutencao"
+          },
+          {
+            "numero": "armario 4",
+            "estado": "manutencao"
+          }
+        ]
+      },
+      {
+        "nome": "Bloco 2",
+        "armarios": [
+          {
+            "numero": "armario 5",
+            "estado": "livre"
+          },
+          {
+            "numero": "armario 6",
+            "estado": "manutencao"
+          },
+          {
+            "numero": "armario 7",
+            "estado": "ocupado"
+          },
+          {
+            "numero": "armario 8",
+            "estado": "manutencao"
+          }
+        ]
+      },
+      {
+        "nome": "Bloco 3",
+        "armarios": [
+          {
+            "numero": "armario 9",
+            "estado": "livre"
+          },
+          {
+            "numero": "armario 10",
+            "estado": "manutencao"
+          },
+          {
+            "numero": "armario 11",
+            "estado": "ocupado"
+          },
+          {
+            "numero": "armario 12",
+            "estado": "manutencao"
+          }
+        ]
+      },
+      {
+        "nome": "Bloco 4",
+        "armarios": [
+          {
+            "numero": "armario 13",
+            "estado": "livre"
+          },
+          {
+            "numero": "armario 14",
+            "estado": "manutencao"
+          },
+          {
+            "numero": "armario 15",
+            "estado": "ocupado"
+          },
+          {
+            "numero": "armario 16",
+            "estado": "manutencao"
+          }
+        ]
+      }
+    ]
+    
+  }
+   
